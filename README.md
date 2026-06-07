@@ -2,6 +2,8 @@
 
 面向 **A 轮股权融资（1.5 亿元）** 的对外商业计划书，采用苹果产品页视觉风格的单页滚动式网站。所有财务、概率、估值数据均由可复现的 Python 模型重算校验，数据来源于《GW-1 可行性研究报告 v2.0（OEM 轻资产模式升级版）》。
 
+**在线访问**：https://bistuwangqiyuan.github.io/gw-1-radiative-cooling-business-plan/
+
 ---
 
 ## 一、目录结构
@@ -26,8 +28,9 @@ tuliao/
 
 ## 二、如何查看
 
-- **方式一（最简单）**：直接双击 `index.html` 用浏览器打开。图表库与数据均为本地文件，无需联网。
-- **方式二（推荐，避免任何浏览器本地文件限制）**：在项目根目录启动本地服务后访问 `http://localhost:8765/index.html`：
+- **在线版（推荐对外分享）**：https://bistuwangqiyuan.github.io/gw-1-radiative-cooling-business-plan/
+- **方式一（本地）**：直接双击 `index.html` 用浏览器打开。图表库与数据均为本地文件，无需联网。
+- **方式二（本地服务）**：在项目根目录启动本地服务后访问 `http://localhost:8765/index.html`：
 
 ```powershell
 cd D:\project\cursor\bp\tuliao
