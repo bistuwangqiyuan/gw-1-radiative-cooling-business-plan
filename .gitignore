@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE / 本地
+.cursor/
+*.log
+_shot_*.jpg
+_extracted.txt
+
+# OS
+.DS_Store
+Thumbs.db
