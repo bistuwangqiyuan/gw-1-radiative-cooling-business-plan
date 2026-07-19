@@ -13,3 +13,6 @@ _extracted.txt
 # OS
 .DS_Store
 Thumbs.db
+.env
+node_modules/
+.netlify/
